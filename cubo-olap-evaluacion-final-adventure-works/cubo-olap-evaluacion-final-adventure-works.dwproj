@@ -28,12 +28,16 @@
       <FullPath>DIM DATE ETL.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>DIM PRODUCT SUBCATEGORY ETL.dim</Name>
-      <FullPath>DIM PRODUCT SUBCATEGORY ETL.dim</FullPath>
+      <Name>FACT PRODUCT INVENTORY ETL.dim</Name>
+      <FullPath>FACT PRODUCT INVENTORY ETL.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>DIM PRODUCT CATEGORY ETL.dim</Name>
       <FullPath>DIM PRODUCT CATEGORY ETL.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DIM PRODUCT SUBCATEGORY ETL.dim</Name>
+      <FullPath>DIM PRODUCT SUBCATEGORY ETL.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
